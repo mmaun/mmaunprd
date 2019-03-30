@@ -1,0 +1,4 @@
+ssh -i digiocean root@178.62.22.78
+
+http://206.189.26.53:8084/login
+
