@@ -117,7 +117,7 @@ deleted.
     )
 
     def Failover(self, request, global_params=None):
-      r"""Failover the master role to current replica node against a specific.
+      r"""Failover the main role to current replica node against a specific.
 STANDARD tier redis instance.
 
       Args:
